@@ -16,7 +16,7 @@ Built to provide hotel staff with a seamless experience in handling bookings and
 - **Deployment:** Vercel
 
 ## 🔗 Live Demo
-[View Dashboard](https://the-wild-oasis-green-kappa.vercel.app/dashboard)
+[View Dashboard](https://the-wild-oasis-green-kappa.vercel.app)
 
 ## 💻 GitHub Repository
 [The Wild Oasis – Dashboard (GitHub)](https://github.com/SherifOthman/the-wild-oasis-dashboard)

@@ -15,6 +15,9 @@ Built to provide hotel staff with a seamless experience in handling bookings and
 - **Styling:** Styled Components
 - **Deployment:** Vercel
 
+### 📝 Note  
+This project is part of the **React Course by Jonas Schmedtmann**.
+
 ## 🔗 Live Demo
 [View Dashboard](https://the-wild-oasis-green-kappa.vercel.app)
 
